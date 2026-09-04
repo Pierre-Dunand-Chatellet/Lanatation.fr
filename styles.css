@@ -1,0 +1,75 @@
+html{
+	font-size: 22px;
+	font-family: Comic sans MS;
+}
+
+
+.navigation{
+	list-style-type: non;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #5e5e5e;
+}
+
+h3
+{
+	color: blue; 
+}
+
+.banniere
+{
+	width: 900px;
+	height: 480px; 
+}
+
+.logo{
+	height: 150px;
+	width: 150px;
+}
+
+
+.ligne {
+	display: flex;
+	justify-content: space-between;
+	align-items: flex-start;
+	padding: 20px;
+}
+  
+.gauche {
+	text-align: left;
+	width: 45%;
+}
+  
+.droite {
+	text-align: right;
+	width: 45%;
+}
+
+.gauche2 {
+	text-align: left;
+	width: 33%;
+}
+
+.center2{
+	text-align: center;
+	width: 33;
+}
+  
+.droite2 {
+	text-align: right;
+	width: 33%;
+}
+  
+.image{
+	width: 500px;
+	height: 250px;
+}
+
+.nages{
+	color: blue;
+}
+
+a:link{
+	color:blue;
+}
