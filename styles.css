@@ -1,3 +1,5 @@
+/* mon tout premier site, je voulais quelque chose de sympa et lisible :
+   police un peu grande, Comic Sans assumé */
 html{
 	font-size: 22px;
 	font-family: Comic sans MS;
@@ -29,6 +31,8 @@ h3
 }
 
 
+/* ".ligne" = mise en page en deux colonnes (texte / image), réutilisée
+   sur toutes les pages du site pour garder la même structure */
 .ligne {
 	display: flex;
 	justify-content: space-between;
